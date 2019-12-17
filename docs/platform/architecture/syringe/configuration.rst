@@ -23,7 +23,7 @@ way to pass these to Syringe is directly in the ``Pod`` or ``Deployment`` defini
     (...truncated...)
 
 If you're using `antidote-selfmedicate <https://github.com/nre-learning/antidote-selfmedicate>`_ to spin up an instance of Antidote and Syringe yourself, note that these are provided
-in the included `Kubernetes manifest <https://github.com/nre-learning/antidote-selfmedicate/blob/master/syringe.yml>`_.
+in the included `vagrant manifest <https://github.com/nre-learning/antidote-selfmedicate/blob/master/antidote-config.yml>`_.
 
 See the tables below for a description of each, as well as information on which are required, and which have default values.
 
